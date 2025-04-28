@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EjercicioReact/static/css/main.0651def2.css",
+    "main.js": "/EjercicioReact/static/js/main.4ba7f762.js",
+    "index.html": "/EjercicioReact/index.html",
+    "main.0651def2.css.map": "/EjercicioReact/static/css/main.0651def2.css.map",
+    "main.4ba7f762.js.map": "/EjercicioReact/static/js/main.4ba7f762.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0651def2.css",
+    "static/js/main.4ba7f762.js"
+  ]
+}
